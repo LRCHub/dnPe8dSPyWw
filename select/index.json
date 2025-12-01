@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "きゅびびびびずむ",
+  "base_artist": "超てんちゃん、NEEDY GIRL OVERDOSE、原口沙輔",
+  "createdAt": "2025-12-01T11:20:48.775886Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きゅびびびびずむ",
+      "artist": "超てんちゃん, NEEDY GIRL OVERDOSE, 原口沙輔",
+      "has_synced": false,
+      "path": "select/pl_01_きゅびびびびずむ_超てんちゃん,_NEEDY_GIRL_OVERDOSE,_原口沙輔.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "きゅびびびびずむ",
+      "artist": "超てんちゃん, NEEDY GIRL OVERDOSE, 原口沙輔",
+      "has_synced": false,
+      "path": "select/pl_02_きゅびびびびずむ_超てんちゃん,_NEEDY_GIRL_OVERDOSE,_原口沙輔.txt"
+    }
+  ]
+}
